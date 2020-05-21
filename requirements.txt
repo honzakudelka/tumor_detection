@@ -1,0 +1,14 @@
+scipy
+pandas
+numpy
+matplotlib
+Pillow
+scikit-learn
+scikit-image
+tensorflow
+tflearn
+opencv-python
+openslide-python
+xlrd
+xlsxwriter
+xgboost
